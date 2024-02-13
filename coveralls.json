@@ -1,11 +1,11 @@
 {
   "skip_files": [
-    "lib/pipeline_ci/application.ex",
-    "lib/pipeline_ci_web.ex",
-    "lib/pipeline_ci_web/telemetry.ex",
-    "lib/pipeline_ci_web/router.ex",
-    "lib/pipeline_ci_web/views/error_helpers.ex",
-    "lib/pipeline_ci_web/components/core_components.ex",
+    "lib/rent_cars/application.ex",
+    "lib/rent_cars_web.ex",
+    "lib/rent_cars_web/telemetry.ex",
+    "lib/rent_cars_web/router.ex",
+    "lib/rent_cars_web/views/error_helpers.ex",
+    "lib/rent_cars_web/components/core_components.ex",
     "test/support/data_case.ex"
   ],
   "coverage_options": {
